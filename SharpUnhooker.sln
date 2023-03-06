@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpUnhooker", "SharpUnhooker.csproj", "{C7AAEDBC-6A11-4DAA-8836-750372C30B50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7AAEDBC-6A11-4DAA-8836-750372C30B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7AAEDBC-6A11-4DAA-8836-750372C30B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7AAEDBC-6A11-4DAA-8836-750372C30B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7AAEDBC-6A11-4DAA-8836-750372C30B50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {789A9DFA-237E-46E8-B265-2062517FE619}
+	EndGlobalSection
+EndGlobal
